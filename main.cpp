@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	int arr[] = { 1, 2, 0, 4, 0, 3, 0, 5 };
+	int arr[] = { 1, 2, 0, 9, 0, 3, 0, 5 };
 	int n = 8;
 	int j = 0;
 	for (int i = 0; i < n; ++i) {
